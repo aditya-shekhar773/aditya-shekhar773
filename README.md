@@ -21,13 +21,13 @@
 </p>
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
-[![Stats](https://github-readme-stats.vercel.app/api?username=LazyDeveloperr&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/LazyDeveloperr/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LazyDeveloperr&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyDeveloperr&layout=compact&theme=tokyonight" align="center">
+[![Stats](https://github-readme-stats.vercel.app/api?username=aditya-shekhar773&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/aditya-shekhar773/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aditya-shekhar773&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-shekhar773&layout=compact&theme=tokyonight" align="center">
 
 
 ## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{LazyDeveloperr}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{aditya-shekhar773}/count.svg)
 
 
 ## YouTube 
