@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/aditya-shekhar773/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=CodeWithAditya&font=Fira%20Bold&center=true&width=480&height=45&color=DFFF00&vCenter=true&pause=1000&size=40" /></a>
+  <a href="https://github.com/aditya-shekhar773/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Code With Aditya&font=Fira%20Bold&center=true&width=480&height=45&color=DFFF00&vCenter=true&pause=1000&size=40" /></a>
 </p>
 
 <p align="center">
